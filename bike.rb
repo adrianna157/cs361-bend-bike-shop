@@ -1,6 +1,6 @@
 # Bike
 require_relative 'luggage'
-
+#test
 class Bike
 
   STANDARD_WEIGHT = 200 # lbs
